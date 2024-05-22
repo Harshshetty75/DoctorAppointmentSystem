@@ -1,3 +1,5 @@
+DOCTOR APPOINTMENT SYSTEM
+
 The Doctor Appointment System is a command-line tool developed in C++ to streamline the management of doctor appointments for both medical practitioners and patients. It offers a range of features to enhance scheduling efficiency and facilitate seamless communication between doctors and patients.
 
 Features:-
