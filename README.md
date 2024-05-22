@@ -9,7 +9,7 @@ Features:-
 - Schedule Appointment: Book appointments with preferred doctors, choosing suitable dates and locations.
 - View Appointments: Check the status of scheduled appointments.
 
-Prerequisites:
+Prerequisites:-
 
 - A C++ compiler: You can use compilers like g++, clang++, or any online compiler for compilation.
 - Git: Required for cloning the repository.
