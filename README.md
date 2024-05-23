@@ -14,3 +14,6 @@ Prerequisites:-
 - A C++ compiler: You can use compilers like g++, clang++, or any online compiler for compilation.
 - Git: Required for cloning the repository.
 
+Sample output for reference:-
+
+![Screenshot 2024-05-22 223201](https://github.com/Harshshetty75/DoctorAppointmentSystem/assets/96162996/702d3bd2-1315-419b-8163-aeb1c7dc2a76)
